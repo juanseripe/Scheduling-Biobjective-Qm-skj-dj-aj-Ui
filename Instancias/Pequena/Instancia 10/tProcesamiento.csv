@@ -1,0 +1,26 @@
+"Bloque","Aplicacion","tProcesamiento","dInicio","dFin"
+"Bloque 0","-",0,0,0
+"Bloque 1","Aplicacion 1",0.805156955774874,1,5
+"Bloque 2","Aplicacion 1",0.204437165846134,4,6
+"Bloque 3","Aplicacion 1",2.1080662940762,0,4
+"Bloque 4","Aplicacion 1",0.23051631920971,0,4
+"Bloque 5","Aplicacion 1",0.80148009378463,5,11
+"Bloque 6","Aplicacion 1",1.04123271676526,2,12
+"Bloque 1","Aplicacion 2",0.214194443917493,12,14
+"Bloque 2","Aplicacion 2",3.12439135224245,14,22
+"Bloque 3","Aplicacion 2",0.412001735856757,11,17
+"Bloque 4","Aplicacion 2",0.879999847011641,11,17
+"Bloque 5","Aplicacion 2",0.585806627012789,20,26
+"Bloque 6","Aplicacion 2",2.71806729314833,12,22
+"Bloque 1","Aplicacion 3",0.304652500804514,23,33
+"Bloque 2","Aplicacion 3",0.457016873893268,25,33
+"Bloque 3","Aplicacion 3",0.2858428504318,24,34
+"Bloque 4","Aplicacion 3",0.456394601973383,22,24
+"Bloque 5","Aplicacion 3",2.86676939636247,31,39
+"Bloque 6","Aplicacion 3",0.0400534238666296,24,32
+"Bloque 1","Aplicacion 4",0.565607214113697,37,39
+"Bloque 2","Aplicacion 4",0.237036186796891,39,49
+"Bloque 3","Aplicacion 4",0.215208680846367,36,40
+"Bloque 4","Aplicacion 4",1.40399904175794,36,44
+"Bloque 5","Aplicacion 4",0.0978433342650533,42,52
+"Bloque 6","Aplicacion 4",2.05127710478689,34,36
